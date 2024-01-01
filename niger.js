@@ -177,6 +177,16 @@ color: "teal"
 });
 });
 
+//next page 
+function namibia(){
+open("https://salmandascript.github.io/Namibia/Namibia.html");
+}
+
+//next page 
+function nigeria(){
+open("https://salmandascript.github.io/Nigeria/Nigeria.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
